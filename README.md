@@ -1,16 +1,18 @@
-## Hi there 👋
+# Hiago Lima 
+🎨 Graphic designer passionate about technology and programming.  
+💻 Intermediate experience in Python, C, and C++     
+👾Future Full-Stack Dev 
 
-<!--
-**Hiago-Lima/Hiago-Lima** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+### 📈 Goals:  
+- Deepen my knowledge in software development.  
+- Contribute to open-source projects.  
+- Become a Full-Stack Dev
+- Become a Master of the Guitar🎸
+## Connect with Me
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/hiago-olima/)
+[![Gmail](https://img.shields.io/badge/Gmail-333333?style=for-the-badge&logo=gmail&logoColor=red)](mailto:hiago.olima1@gmail.com)
 
-Here are some ideas to get you started:
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## GitHub Stats
+![hiago's GitHub stats](https://github-readme-stats.vercel.app/api?username=hiago-lima&theme=rose&show_icons=true)
+
